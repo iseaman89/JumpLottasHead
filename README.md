@@ -1,7 +1,7 @@
 
 # Jump Lotta's Head, Jump 🐤🎮
 
-A fun and minimalistic **Flappy Bird clone** for Android, built to explore game mechanics, object pooling, and Unity basics during my training as a Software Developer.
+A fun and minimalistic **Flappy Bird clone** for Android, built to explore game mechanics, object pooling, di and Unity basics during my training as a Software Developer.
 
 ---
 
