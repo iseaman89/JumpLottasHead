@@ -51,7 +51,7 @@ To run the game on Android:
 3. Build the APK via `File > Build Settings > Build`
 4. Install the APK on your Android device
 
-> Unity version used: `2022.x` *(adjust as needed)*
+> Unity version used: `6000.x` *(adjust as needed)*
 
 ---
 
