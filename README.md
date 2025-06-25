@@ -57,8 +57,7 @@ To run the game on Android:
 
 ## 📸 Screenshots
 
-![screenshot1](./Assets/Screenshots/menu.png)  
-![screenshot2](./Assets/Screenshots/start.png)
+![screenshot1](./Assets/Screenshots/menu.png)  ![screenshot2](./Assets/Screenshots/start.png)
 ![screenshot3](./Assets/Screenshots/game.png)
 ![screenshot4](./Assets/Screenshots/game-over.png)
 
